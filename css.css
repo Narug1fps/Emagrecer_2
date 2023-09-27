@@ -26,7 +26,7 @@ color: rgb(9, 213, 9);
     font-size: 30px;
 }
 .comece.blue {
-    color: blue;
+    color: rgb(0, 68, 255);
 }
 .comece.green {
     color: rgb(9, 213, 9);
@@ -149,10 +149,4 @@ color: rgb(9, 213, 9);
     text-decoration: none;
   }
 
-  .footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 60px 0 0 0;
-    margin-bottom: -40px;
-  }
+  
